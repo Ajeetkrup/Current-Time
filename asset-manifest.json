@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Current-Time/static/css/main.799f461a.css",
+    "main.js": "/Current-Time/static/js/main.95f8937a.js",
+    "index.html": "/Current-Time/index.html",
+    "main.799f461a.css.map": "/Current-Time/static/css/main.799f461a.css.map",
+    "main.95f8937a.js.map": "/Current-Time/static/js/main.95f8937a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799f461a.css",
+    "static/js/main.95f8937a.js"
+  ]
+}
