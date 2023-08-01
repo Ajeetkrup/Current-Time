@@ -1,3 +1,20 @@
+# Project Description 
+## This is a React project which uses UseState hook to update the time.
+
+# Deployed Link - https://ajeetkrup.github.io/Current-Time/
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
